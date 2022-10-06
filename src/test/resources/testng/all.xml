@@ -3,6 +3,7 @@
 <suite name="Smoke" verbose="1">
     <listeners>
         <listener class-name="ua.ithillel.listener.Listener"></listener>
+        <listener class-name="ua.ithillel.retry.AnnotationTransformer"></listener>
     </listeners>
 
     <test name="Smoke">
@@ -10,6 +11,7 @@
             <class name="ua.ithillel.TestClass"/>
             <class name="ua.ithillel.GroupTest"/>
             <class name="ua.ithillel.TestClassRegression"/>
+            <class name="ua.ithillel.RetryTest"></class>
         </classes>
     </test>
 </suite>
