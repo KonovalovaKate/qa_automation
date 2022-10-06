@@ -8,7 +8,7 @@ public class DataProviderTest {
     public Object[][] createData() {
         return new Object[][]{
                 {"Andrii", 36},
-                {"Alex", 37},
+                {"Alex", 38},
         };
     }
     @Test(dataProvider = "createData")

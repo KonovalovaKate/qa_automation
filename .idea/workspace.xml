@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838f596d-53e3-45ce-ac49-2d03ecdacf8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/GroupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/PriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/TestClassRegression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/listener/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/TestSuiteUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/all.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/smoke.xml" afterDir="false" />
+    <list default="true" id="838f596d-53e3-45ce-ac49-2d03ecdacf8e" name="Changes" comment="Proba Pera">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664899371704</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proba Pera">
+      <created>1665078220858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665078220858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +141,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proba Pera" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proba Pera" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
