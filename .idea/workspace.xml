@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="838f596d-53e3-45ce-ac49-2d03ecdacf8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/TestClassRegression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/ithillel/listener/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/TestSuiteUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng/smoke.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Fg2O4bbSXYKoDoEmQ3tpeOJAOF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Dream Store/IdeaProjects/qa-automation/src/test/resources/testng/all.xml">
+    <configuration name="C:/Users/Dream Store/IdeaProjects/qa-automation/src/test/resources/testng/all.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng/all.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.ithillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.ithillel" />
+      <option name="MAIN_CLASS_NAME" value="ua.ithillel.DataProviderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.ithillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.ithillel" />
+      <option name="MAIN_CLASS_NAME" value="ua.ithillel.GroupTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.ithillel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.ithillel" />
+      <option name="MAIN_CLASS_NAME" value="ua.ithillel.PriorityTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Dream Store/IdeaProjects/qa-automation/src/test/resources/testng/all.xml" />
+        <item itemvalue="TestNG.DataProviderTest" />
+        <item itemvalue="TestNG.PriorityTest" />
+        <item itemvalue="TestNG.GroupTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838f596d-53e3-45ce-ac49-2d03ecdacf8e" name="Changes" comment="" />
+      <created>1664899371704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664899371704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

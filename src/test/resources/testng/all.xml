@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Smoke" verbose="1">
+    <listeners>
+        <listener class-name="ua.ithillel.listener.Listener"></listener>
+    </listeners>
+
+    <test name="Smoke">
+        <classes>
+            <class name="ua.ithillel.TestClass"/>
+            <class name="ua.ithillel.GroupTest"/>
+            <class name="ua.ithillel.TestClassRegression"/>
+        </classes>
+    </test>
+</suite>
+
